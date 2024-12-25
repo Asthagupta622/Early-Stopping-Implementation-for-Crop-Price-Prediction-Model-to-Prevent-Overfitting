@@ -102,4 +102,6 @@ Copy code
 - Include a `LICENSE` file if you wish to license your code. Use MIT for simplicity.
 
 Let me know if you'd like me to tailor this further!
-![Screenshot (307)](https://github.com/user-attachments/assets/885b9e7d-f64e-4c48-bdee-7af374cb450c)
+
+
+
